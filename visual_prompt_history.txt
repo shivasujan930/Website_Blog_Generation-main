@@ -1,0 +1,255 @@
+================================================================================
+VISUAL PROMPTS — 2025-04-19 07:17:23
+================================================================================
+[Scene 1] a bustling financial district with skyscrapers and digital billboards displaying stock market tickers, a large building labeled Federal Reserve in the foreground, surrounded by graphs and charts showing rising interest rates, traders looking concerned, and arrows indicating market fluctuations in red and green
+
+[Scene 2] a digital stock market display featuring the S&P 500 and NASDAQ indexes with red downward arrows indicating a decline of 1.2% and 1.5%, respectively, alongside a rising line graph representing the 10-year Treasury yield at 4.85%, set against a backdrop of a bustling financial district with skyscrapers and traders in action.
+
+[Scene 3] a detailed map of the United States, featuring iconic landmarks like the Statue of Liberty, Golden Gate Bridge, and Mount Rushmore, with a blue sky and fluffy white clouds above, and a vibrant landscape showcasing forests, mountains, and cities
+
+[Scene 4] a digital display board showing the Dollar Index at 106.7, surrounded by upward trending green arrows and currency symbols, set against a backdrop of a bustling financial district with skyscrapers and traders in suits.
+
+[Scene 5] a group of diverse institutional investors in formal attire, gathered around a large conference table filled with financial charts and graphs, some displaying rising and falling trends, a backdrop of a large digital screen showing inflation and growth indicators, a tense atmosphere with a balance scale symbolizing the trade-off between inflation control and economic growth, city skyline visible through large windows, soft natural lighting
+
+[Scene 6] a visually striking financial landscape featuring a diverse array of investment assets, including stocks, bonds, real estate, and commodities, displayed as colorful pie charts and bar graphs; a worried investor analyzing data on a laptop, with dark clouds symbolizing uncertainty overhead, while a compass and a shield representing strategic navigation and risk management are prominently placed in the foreground.
+
+================================================================================
+VISUAL PROMPTS — 2025-04-19 08:42:11
+================================================================================
+[Scene 1] A bright and inviting sunrise over a bustling city skyline, with warm golden rays illuminating tall buildings, a clear blue sky, and people walking on the streets, smiling and greeting each other, some holding coffee cups.
+
+[Scene 2] a close-up view of a financial news screen displaying rising Treasury yield graphs, prominently featuring a 10-year note labeled 4.78%, surrounded by images of upward-pointing arrows and stacks of U.S. dollar bills, with a backdrop of a bustling stock exchange floor and traders analyzing data on large monitors.
+
+[Scene 3] a bustling financial district with skyscrapers, a large digital display showing the S&P 500 index with a slight upward trend, a strong dollar symbol ($) prominently featured, and flags of various emerging market countries, all under a clear blue sky with subtle hints of tension in the atmosphere, like swirling clouds or distant thunder.
+
+[Scene 4] a group of serious financial analysts in smart business attire, gathered around a large conference table filled with charts and graphs, a digital screen displaying fluctuating currency exchange rates and rising interest rate graphs in the background, stacks of financial reports and a laptop open with the Goldman Sachs logo visible on the table, a worried expression on one analyst's face as they discuss potential impacts on earnings
+
+[Scene 5] a futuristic financial conference room with a large screen displaying fluctuating stock market graphs and sector performance charts, a group of diverse institutional investors in business attire discussing strategies around a sleek glass table, surrounded by digital maps of the globe indicating economic volatility, with arrows pointing to various sectors like technology, energy, and healthcare, all under soft, ambient lighting
+
+================================================================================
+VISUAL PROMPTS — 2025-04-20 08:42:56
+================================================================================
+[Scene 1] a sleek modern newsroom with large screens displaying financial graphs and stock market tickers, a news anchor at a polished desk, surrounded by charts, dollar signs, and a globe, bright studio lights illuminating the scene
+
+[Scene 2] a split-screen view of global financial markets, featuring a bustling New York Stock Exchange with traders reacting, and a serene Asian financial district skyline at dusk, with fluctuating stock charts in the background, displaying both rising and falling trends, alongside flags from various countries, symbolizing mixed reactions.
+
+[Scene 3] a dynamic stock market scene with a large digital display showing fluctuating stock prices, some green arrows rising and some red arrows falling, a diverse group of traders looking at screens with mixed expressions, and a backdrop of a bustling financial district with skyscrapers and billboards.
+
+[Scene 4] a modern central bank building labeled 'The Fed', with a thoughtful group of economists discussing around a large table, surrounded by downward-trending graphs and charts depicting Treasury yields, soft clouds in the background symbolizing easing monetary policy, and a calm blue sky above.
+
+[Scene 5] a bustling cityscape with skyscrapers representing various industries, a large digital screen displaying fluctuating energy prices, ominous storm clouds overhead symbolizing geopolitical tensions, and arrows indicating rising and falling trends in borrowing, all set against a backdrop of a busy financial district.
+
+[Scene 6] a group of diverse institutional investors in formal attire, attentively observing a large digital screen displaying fluctuating economic graphs and sector performance charts, with warning symbols and alert notifications in the background, set in a sleek, modern office environment with glass walls and city skyline views.
+
+================================================================================
+VISUAL PROMPTS — 2025-04-21 00:37:33
+================================================================================
+[Scene 1] a large map of the United States with a bold question mark in the center, surrounded by various news headlines and images of people reacting in shock, colorful graphics depicting economic trends and statistics, bright spotlights illuminating the map from above.
+
+[Scene 2] a dynamic upward graph displaying a GDP growth rate of 4.9%, with bold green arrows soaring above a city skyline, surrounded by symbols of economic resilience like factories, skyscrapers, and people celebrating, against a bright blue sky with fluffy white clouds
+
+[Scene 3] a digital stock market display showing the S&P 500 and Nasdaq Composite indices in red, with downward arrows indicating a decline, surrounded by traders looking concerned in a bustling financial district, skyscrapers in the background, and screens displaying stock tickers and graphs.
+
+[Scene 4] a close-up of a digital display board showing the 10-year Treasury yield at 4.85%, with upward trending green arrows, a background of financial charts and graphs, and a silhouette of a central bank building, symbolizing the Federal Reserve, with a steady clock indicating time passing.
+
+[Scene 5] a digital display board showing the EUR/USD currency pair at 1.055, with a backdrop of a bustling financial district, graphs depicting GDP growth in the foreground, and a stern-looking Federal Reserve building in the background, accompanied by arrows indicating a hawkish trend in interest rates
+
+[Scene 6] a bustling financial district with skyscrapers, a large digital stock market ticker displaying fluctuating numbers, investors in business attire intently observing the screens, a calendar page showing the date of the upcoming labor data release, and a backdrop of a cloudy sky suggesting uncertainty in the market
+
+================================================================================
+VISUAL PROMPTS — 2025-04-21 08:47:30
+================================================================================
+[Scene 1] a bustling stock exchange floor filled with traders anxiously monitoring large digital screens displaying red downward arrows, two prominent screens showing the S&P 500 index dropping 0.8% and the Nasdaq index sliding 1.2%, with graphs and stock tickers highlighting the decline, in a vibrant atmosphere of concern and urgency
+
+[Scene 2] a financial news graphic featuring a large digital display showing the 10-year Treasury yield at 4.95%, with an upward spike highlighted in red, surrounded by symbols of the U.S. economy such as the American flag, dollar signs, and stock market charts, set against a backdrop of a bustling city skyline.
+
+[Scene 3] a close-up of a shiny one-dollar bill, featuring the portrait of George Washington, surrounded by scattered coins and a soft-focus background of a bustling marketplace with people exchanging money
+
+[Scene 4] a bustling financial district with skyscrapers, one prominently displaying the Federal Reserve logo, surrounded by anxious investors looking at large digital screens showing rising inflation graphs and red arrows indicating rate hikes, with a backdrop of a cloudy sky symbolizing uncertainty
+
+[Scene 5] a sleek, modern office filled with financial analysts, one displaying a large digital screen showing downward trends in stocks and bonds, stacks of papers labeled "Hedge Fund Strategies," and charts illustrating net short positions, all surrounded by cautious-looking investors in business attire.
+
+[Scene 6] a group of diverse investors gathered around a large digital display showing fluctuating stock market graphs, with a prominent logo of the Federal Reserve in the background, alongside a calendar page marked with upcoming dates for Fed communications and GDP data, all set against a backdrop of stormy clouds symbolizing turbulent market conditions.
+
+================================================================================
+VISUAL PROMPTS — 2025-04-21 18:11:37
+================================================================================
+[Scene 1] a warm, inviting afternoon scene in a bustling city park, with people relaxing on benches, children playing with a frisbee, trees with vibrant green leaves, and a clear blue sky overhead
+
+[Scene 2] a bustling financial district with tall skyscrapers, a large digital billboard displaying the S&P 500 and Nasdaq logos, green upward arrows representing market gains, traders celebrating with papers and laptops, a bright blue sky in the background, and a sense of optimism in the atmosphere
+
+[Scene 3] a digital display board showing the number 4.58% in bold green letters, surrounded by downward-pointing arrows, with a backdrop of a financial district skyline featuring modern skyscrapers, and a chart with a declining trend line, symbolizing stable monetary policy
+
+[Scene 4] a sleek, modern office filled with analysts at desks, multiple computer screens displaying graphs and charts of economic indicators, a large digital screen showing the Federal Reserve logo, and inflation symbols like rising prices and dollar signs in the background, all set in a bright, bustling financial district.
+
+[Scene 5] a bustling financial district with tall skyscrapers, a large digital display showing rising stock prices, institutional investors in business attire confidently shaking hands and reviewing documents, while nearby, a group of hedge fund managers in a more subdued setting, analyzing charts and discussing strategies with concerned expressions, contrasting the vibrant atmosphere around them.
+
+[Scene 6] a bustling financial district with skyscrapers, a large digital billboard displaying labor market reports and bond yield charts, traders in business attire analyzing data on laptops, graphs illustrating growth and inflation trends, and a backdrop of fluctuating stock market tickers
+
+================================================================================
+VISUAL PROMPTS — 2025-04-21 18:28:53
+================================================================================
+[Scene 1] a bustling financial news studio with large screens displaying stock market graphs, a globe with highlighted countries, scientists in lab coats celebrating breakthroughs, futuristic technology gadgets, and a diverse group of business professionals analyzing data, all set against a backdrop of upward-trending market indicators
+
+[Scene 2] a bustling financial district with skyscrapers, investors in business attire looking at digital screens displaying upward trends and graphs, a large holographic display showing various industries like technology, healthcare, and renewable energy, bright sunlight illuminating the scene, people engaged in discussions with charts and data in the background
+
+[Scene 3] a futuristic cityscape showcasing advanced healthcare facilities with glass facades, medical professionals collaborating with technology, and solar panels and wind turbines in the background, symbolizing renewable energy, surrounded by dynamic graphs and upward-trending arrows indicating growth and innovation
+
+[Scene 4] a vibrant financial news studio with multiple screens displaying stock market graphs and charts, a host sitting at a desk with a microphone, surrounded by colorful tickers and digital maps, viewers watching intently in the background, bright lights illuminating the scene, conveying a sense of urgency and excitement.
+
+================================================================================
+VISUAL PROMPTS — 2025-04-22 08:46:20
+================================================================================
+[Scene 1] a bustling news studio filled with screens displaying charts and graphs, a globe in the background, scientists and tech experts in lab coats discussing innovations, bright light illuminating the room, and headlines showcasing breakthroughs in science and technology
+
+[Scene 2] a futuristic city skyline with sleek skyscrapers, interconnected by glowing digital networks, featuring diverse industries like technology, healthcare, and renewable energy, surrounded by a world map with arrows indicating global market connections and innovations, bright colors highlighting progress and dynamism
+
+[Scene 3] a futuristic city skyline with sleek, innovative buildings, glowing with digital screens displaying graphs and charts, a diverse group of investors observing and discussing, surrounded by holographic representations of emerging technologies like AI, renewable energy, and biotechnology, bright blue sky with hints of sunset colors, symbolizing growth and opportunity
+
+[Scene 4] a dynamic conference room filled with diverse professionals engaged in discussion, large screens displaying graphs and charts of business trends, a futuristic city skyline visible through the windows, a large banner reading "Business and Finance Innovations" hanging on the wall, bright lighting and a sense of anticipation in the air
+
+================================================================================
+VISUAL PROMPTS — 2025-04-22 18:15:55
+================================================================================
+[Scene 1] a detailed map of the United States, featuring state borders, major cities marked with bright dots, and iconic landmarks like the Statue of Liberty, Golden Gate Bridge, and Mount Rushmore, all set against a backdrop of a clear blue sky and fluffy white clouds.
+
+[Scene 2] a vibrant stock market scene featuring a large digital display board showing the S&P 500 and Nasdaq indices with upward green arrows, surrounded by energetic traders in a bustling trading floor, highlighting technology and financial stock symbols like a computer chip and dollar sign, with a bright blue sky visible through large windows in the background.
+
+[Scene 3] a digital stock market display board showing the Dow Jones Industrial Average rising by 2.10%, with green upward arrows and a line graph illustrating decreasing volatility, set against a backdrop of a bustling financial district with skyscrapers and traders in business attire.
+
+[Scene 4] a dramatic financial news scene featuring a large digital display board showing declining bond yield graphs in green, alongside a rising dollar symbol in gold, with a backdrop of a bustling stock exchange floor filled with diverse traders reacting positively, bright screens displaying stock tickers, and a sense of optimism in the air
+
+[Scene 5] a split-screen image with the left side showing a barrel of crude oil with a rising price tag and an upward arrow, set against a backdrop of a bustling oil refinery; the right side depicts a gold bar with a declining price tag and a downward arrow, set against a backdrop of a stock market graph with falling lines, symbolizing increased risk appetite
+
+[Scene 6] a dynamic stock market scene featuring a large digital display showing the logos of GE and Tesla, with green upward arrows indicating gains, and a bold chart displaying the ARK Innovation ETF soaring 3.64%, surrounded by enthusiastic investors celebrating, and a backdrop of skyscrapers representing financial districts.
+
+================================================================================
+VISUAL PROMPTS — 2025-04-23 00:58:13
+================================================================================
+[Scene 1] a bustling financial district with tall skyscrapers, a large electronic stock ticker displaying rising numbers, the S&P 500 and Nasdaq logos prominently featured, traders celebrating with raised fists, green upward arrows symbolizing growth, and a bright blue sky in the background
+
+[Scene 2] a digital screen displaying a large VIX index chart with a steep downward trend, surrounded by calm ocean waves and a serene blue sky, symbolizing reduced volatility; financial graphs and stock market icons in the background
+
+[Scene 3] a dynamic financial scene featuring a graph with declining bond yield lines, a group of diverse investors looking relieved as they gather around a large, glowing safe haven symbol, and a prominent US dollar bill in the foreground, with major currency symbols like the euro, yen, and pound in the background, showing a contrasting downward trend.
+
+[Scene 4] a split-screen image showing on one side a shiny gold bar with a downward arrow and a chart displaying a decline, and on the other side, a vibrant flame symbolizing natural gas rising, accompanied by an upward arrow and a chart showing an increase, set against a neutral background.
+
+[Scene 5] a bustling stock market scene with a large digital display showing rising stock prices for Bank of America, GE, and Tesla, surrounded by enthusiastic investors celebrating, green upward arrows indicating gains, and a backdrop of a modern financial district skyline with skyscrapers and a bright blue sky.
+
+================================================================================
+VISUAL PROMPTS — 2025-04-23 08:48:30
+================================================================================
+[Scene 1] a bustling financial district with tall skyscrapers, a large digital display showing the S&P 500 and Nasdaq logos with upward green arrows, excited traders in business attire celebrating, and stock market charts in the background illustrating gains over 2.5%
+
+[Scene 2] a dynamic financial news display featuring a large digital screen showing the DAX index with a bold green arrow pointing upwards, indicating a 2.84% rise, surrounded by European landmarks like the Brandenburg Gate and the Eiffel Tower, alongside stock market graphs and fluctuating line charts in the background
+
+[Scene 3] a digital stock market display board showing a significant drop in the VIX index, with green arrows pointing downward, surrounded by calm ocean waves and a serene sky, symbolizing reduced volatility
+
+[Scene 4] a detailed map of the United States, featuring iconic landmarks like the Statue of Liberty, the Golden Gate Bridge, and Mount Rushmore, with a vibrant blue sky and fluffy white clouds, surrounded by symbols of American culture such as the bald eagle, the American flag, and a bustling city skyline in the background.
+
+[Scene 5] a downward-sloping graph with Treasury yield lines in red, a strong dollar symbol prominently displayed in green, and a backdrop of a bustling financial district with skyscrapers and traders monitoring screens, conveying a sense of economic activity and market dynamics
+
+[Scene 6] a shiny gold bar partially buried in sand, with a downward arrow beside it, while a barrel of crude oil stands upright with an upward arrow next to it, against a backdrop of a fluctuating price chart with green and red lines
+
+[Scene 7] a vibrant stock market scene featuring a large digital display showing the XLF ETF with a bright green upward arrow indicating a 3.31% increase, surrounded by financial graphs, charts, and enthusiastic traders celebrating in a bustling trading floor atmosphere.
+
+[Scene 8] a vibrant stock market scene featuring a large digital display showing rising stock prices for General Electric and Tesla, surrounded by enthusiastic investors celebrating, with green upward arrows and graphs in the background, reflecting a sense of optimism and excitement in the air.
+
+================================================================================
+VISUAL PROMPTS — 2025-04-24 08:48:29
+================================================================================
+[Scene 1] a detailed map of the United States, featuring state boundaries, major cities marked with bright dots, and symbols representing landmarks like the Statue of Liberty, Golden Gate Bridge, and Mount Rushmore, with a blue sky and fluffy white clouds in the background.
+
+[Scene 2] a bustling stock market scene with a large digital display showing the Nasdaq logo and a bright green arrow pointing upwards by 2.5%, surrounded by images of tech giants like Tesla's sleek electric car and NVIDIA's logo, traders celebrating with raised hands, colorful stock charts in the background, and a vibrant city skyline visible through large windows.
+
+[Scene 3] a digital stock market display showing rising graphs and green arrows, with the logos of the S&P 500 and Dow Jones prominently featured, surrounded by excited traders in a bustling financial district, bright screens reflecting positive market trends.
+
+[Scene 4] a split-screen image showing two stock market indices, the FTSE 100 and DAX, represented by their respective logos, with downward-trending red arrows and declining line graphs, set against a backdrop of a gloomy European skyline featuring iconic landmarks like the London Eye and the Brandenburg Gate, with overcast skies and a sense of economic struggle
+
+[Scene 5] a digital stock market display board showing the Nikkei index with an upward green arrow and the Hang Seng index with a downward red arrow, set against a backdrop of Asian city skylines, including Tokyo and Hong Kong, with traders observing the screens in a busy financial office
+
+[Scene 6] a shiny gold ingot resting on a reflective surface, with a backdrop of fluctuating line graphs showing an upward trend, alongside a natural gas flame icon diminishing in size, set against a contrasting background of blue and orange hues, symbolizing the rise and fall in commodity prices.
+
+[Scene 7] a detailed map of the United States, featuring iconic landmarks like the Statue of Liberty, Golden Gate Bridge, and Mount Rushmore, with a backdrop of a clear blue sky and a few fluffy white clouds
+
+[Scene 8] a U.S. dollar bill with a frowning face, positioned next to a strong euro symbol and a robust British pound symbol, all set against a backdrop of a bright, optimistic skyline with upward-trending graphs and smiling investors, conveying a sense of positive sentiment in the U.S. economy
+
+[Scene 9] a bustling financial market scene with traders at desks, multiple screens displaying stock prices and graphs, large digital tickers showing fluctuating numbers, and a diverse group of people in business attire discussing and analyzing data, with a backdrop of towering skyscrapers and a bright city skyline.
+
+================================================================================
+VISUAL PROMPTS — 2025-04-25 03:36:44
+================================================================================
+[Scene 1] a bustling financial district with a large digital screen displaying the Nasdaq logo and a rising graph, surrounded by skyscrapers; prominent logos of Oracle and Intel glowing on nearby buildings, traders celebrating with raised arms, confetti in the air, and green upward arrows symbolizing market gains
+
+[Scene 2] a stock market display board showing the S&P 500 index with a green upward arrow indicating a 2.03% increase, alongside the Dow Jones index with a smaller green upward arrow indicating a 1.23% gain, set against a backdrop of a bustling financial district with skyscrapers and traders observing the screens
+
+[Scene 3] a digital stock market display board showing a large downward arrow with the percentage "7%" highlighted, surrounded by calming blue and green graphs, with a background of traders looking relieved in a bustling financial district setting
+
+[Scene 4] a digital stock market display featuring European and Asian index charts in decline, with downward-trending arrows, a background of skyscrapers representing financial districts, and a prominent visual of bond yield graphs showing a decrease, all set against a blue and green color palette to symbolize market fluctuations.
+
+[Scene 5] a vibrant financial market scene featuring a rising graph line representing Brent Crude oil prices, a strong U.S. Dollar symbol with arrows pointing upward against the euro and pound symbols, and a digital display of tech sector ETF logos like XLK and ARKK, with enthusiastic investors celebrating in the background, surrounded by screens showing stock market data and positive trends.
+
+================================================================================
+VISUAL PROMPTS — 2025-04-25 08:47:30
+================================================================================
+[Scene 1] a detailed map of the United States, featuring state boundaries, major cities marked with colorful dots, and various geographical landmarks, with a blue sky and fluffy white clouds in the background
+
+[Scene 2] a vibrant stock market scene featuring a large digital display showing the S&P 500 and Nasdaq indices with green upward arrows, surrounded by enthusiastic traders in a bustling financial district, with modern skyscrapers and a prominent tech company logo in the background, conveying a sense of excitement and growth.
+
+[Scene 3] a dynamic stock market scene featuring a prominent ARKK ETF logo with a glowing upward arrow indicating a 4.25% gain, alongside the Oracle and Intel logos radiating light, set against a backdrop of digital stock charts and green upward trends, with excited traders in the foreground celebrating the performance
+
+[Scene 4] a downward-sloping graph with bond yield lines decreasing, juxtaposed with a rising graph of equity stocks, a background of a bustling financial district with skyscrapers, and traders analyzing data on screens, all under a clear blue sky
+
+[Scene 5] a close-up view of a trading screen displaying falling graphs for gold and natural gas futures, with gold bars and natural gas flames in the background, surrounded by red downward arrows and a worried trader analyzing market trends
+
+[Scene 6] a close-up of U.S. dollar bills spread out on a wooden table, with a backdrop of financial charts and graphs showing currency trends, a calculator and a pen beside the money, soft natural lighting illuminating the scene.
+
+[Scene 7] a digital display showing a rising Dollar Index graph with a prominent dollar symbol, alongside declining graphs for the Euro and Japanese yen, with the Euro symbol (€) and yen symbol (¥) depicted in red, set against a backdrop of a financial district skyline, with currency notes and coins scattered in the foreground
+
+[Scene 8] a vibrant city skyline with modern technology buildings, featuring digital screens displaying tech logos, contrasted with a fading image of traditional grocery stores and consumer staple products, arrows indicating a shift from one to the other, bright blue sky above and bustling streets below.
+
+================================================================================
+VISUAL PROMPTS — 2025-04-25 19:14:21
+================================================================================
+[Scene 1] a warm afternoon scene in a bustling city park, with people sitting on benches, children playing on the grass, and a clear blue sky above, sunlight filtering through the leaves of trees
+
+[Scene 2] a bustling stock market trading floor with large electronic screens displaying fluctuating stock prices, some green arrows pointing up and red arrows pointing down, traders in business attire analyzing data, a sense of tension and focus in the air
+
+[Scene 3] a vibrant stock market scene featuring a large digital display showing the S&P 500 and NASDAQ indices climbing with green arrows, surrounded by images of popular tech company logos like Apple and Google, while a smaller display shows the Dow Jones with a slight upward trend and the Russell 2000 with a downward trend, all set against a bustling financial district backdrop with traders and screens displaying stock data
+
+[Scene 4] a bustling financial district skyline featuring iconic buildings from various European and Asian cities, with a prominent display of Japan's Nikkei index on a digital screen showing an upward trend, surrounded by traders in business attire celebrating, colorful stock market graphs in the background, and flags representing different countries fluttering in the breeze.
+
+[Scene 5] a close-up view of a shiny gold bar and a silver coin, both slightly tarnished, placed on a dark wooden table; in the background, a rising graph indicating crude oil prices, with a barrel of crude oil and a small flame symbolizing an increase, and arrows pointing upwards in green, contrasting with the downward trend of gold and silver prices shown in red.
+
+[Scene 6] a detailed map of the United States, featuring iconic landmarks like the Statue of Liberty, the Golden Gate Bridge, and the Grand Canyon, with a bright blue sky and fluffy white clouds in the background
+
+[Scene 7] a close-up of a U.S. dollar bill prominently displayed, surrounded by fading euro banknotes, with a digital graph in the background showing a rising dollar line and a falling euro line, set against a blurred financial district skyline.
+
+[Scene 8] a vibrant stock market display with a large digital screen showing the Tesla logo with a green upward arrow and a percentage increase of 9%, alongside a contrasting section featuring the Intel logo with a red downward arrow and a percentage decrease of 7%, set against a backdrop of bustling traders and financial graphs
+
+================================================================================
+VISUAL PROMPTS — 2025-04-26 04:42:21
+================================================================================
+[Scene 1] A vibrant stock market display board showing upward trending green arrows, with a prominent logo of a technology company in the foreground, symbolizing strong gains in tech stocks.
+
+[Scene 2] A vibrant stock market display board showing the S&P 500 and Nasdaq indices with upward trending green arrows, alongside a large Tesla logo with a bold 10% increase highlighted in bright green.
+
+[Scene 3] A large Intel logo on a building facade, with a downward trending red arrow beside it, indicating a 6% drop, and a gloomy atmosphere with dark clouds overhead.
+
+[Scene 4] A close-up of a shiny gold bar and a silver coin, both slightly tarnished, on a dark background, with a rising oil barrel in the background, symbolizing climbing oil prices.
+
+[Scene 5] 'A close-up of a downward trending graph with bond yield percentages, set against a backdrop of a cloudy sky symbolizing economic uncertainty.'
+
+================================================================================
+VISUAL PROMPTS — 2025-04-26 08:44:06
+================================================================================
+[Scene 1] 'A warm afternoon scene in a sunlit park, featuring a friendly person waving hello with a smile, surrounded by blooming flowers and green trees.'
+
+[Scene 2] 'A vibrant stock market scene with a large digital screen displaying rising technology stock prices, surrounded by enthusiastic investors celebrating with upward-pointing arrows in the background.'
+
+[Scene 3] A vibrant stock market display board showing the Nasdaq logo with a green upward arrow indicating a 1.26% surge, alongside a large Tesla logo with a bold red percentage sign showing a nearly 10% increase.
+
+[Scene 4] A digital stock market display featuring the DAX and Nikkei indices, with upward trending green arrows and positive percentage changes, set against a backdrop of a bustling financial district skyline.
+
+[Scene 5] 'A close-up of a financial chart showing a downward trend in bond yields with a background of rising green arrows, alongside a prominent US Dollar bill with a slight upward tilt, symbolizing a flight to safety in the financial market.'
+
